@@ -1,0 +1,2 @@
+# FindPathEqualSpecifiedValue
+--Traning for algorithm
